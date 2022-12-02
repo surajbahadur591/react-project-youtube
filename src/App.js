@@ -1,7 +1,9 @@
 import React from 'react'
+import { AppContext } from './context/contextApi'
 
 const App = () => {
-  return <div className="text-3xl">My asApp</div>
+  return ( <AppContext> <div className="text-3xl">My asApp</div></AppContext>
+  )
   
 }
 
