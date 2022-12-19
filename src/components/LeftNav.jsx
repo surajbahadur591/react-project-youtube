@@ -27,11 +27,11 @@ const LeftNav = () => {
   };
 
   return (
-    <div className="md:block text-white w-[240px] overflow-y-auto h-full py-4 bg-black absolute z-5 translate-x-[-240] md:translate-x-0 transition-all">
+    <div className=" hidden md:block text-white w-[240px] overflow-y-auto h-full py-4 bg-black md:relative absolute z-5 translate-x-[-240] md:translate-x-0 transition-all">
       <div className="flex px-5 flex-col">
         {categories.map((item) => {
           return (
-            <React.Fragment>
+            <React.Fragment key={item.name}>
               <LeftNavMenuItems
                 text={item.type === "home" ? "Home" : item.name}
                 icon={item.icon}

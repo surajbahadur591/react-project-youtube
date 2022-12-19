@@ -17,6 +17,7 @@ const App = () => {
         <div className="flex flex-col h-full">
           {/* header will be on all pages, hence keeping it outsite routes  */}
           <Header />
+        
           <Routes>
             {/* in path we have to keep url and in element we have to keep component which needs to be render */}
             <Route path="" element={<Feed />}></Route>
