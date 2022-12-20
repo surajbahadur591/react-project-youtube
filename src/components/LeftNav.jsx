@@ -27,7 +27,7 @@ const LeftNav = () => {
   };
 
   return (
-    <div className=" hidden md:block text-white w-[240px] overflow-y-auto h-full py-4 bg-black md:relative absolute z-5 translate-x-[-240] md:translate-x-0 transition-all">
+    <div className={`md:block text-white w-[240px] overflow-y-auto h-full py-4 bg-black md:relative absolute z-5 translate-x-[-240] md:translate-x-0 transition-all ${mobileMenu ? "translate-x-0" : "" }`}>
       <div className="flex px-5 flex-col">
         {categories.map((item) => {
           return (
