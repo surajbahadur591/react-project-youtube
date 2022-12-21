@@ -1,7 +1,7 @@
 # React Project - Youtube App
 
 I have created this clone of Youtube to rebrush my skill on React and to watch youtube videos without ads
-### Feel free to have a look at App [here..](https://react-project-youtube.netlify.app/).
+#### Feel free to have a look at App [here..](https://react-project-youtube.netlify.app/).
 ## Home Page:
 ![youtube-homepage](https://user-images.githubusercontent.com/36602276/208832645-7a246ee6-7430-479c-9668-00419a6d1e74.png)
 
@@ -16,7 +16,7 @@ I have created this clone of Youtube to rebrush my skill on React and to watch y
 ### 3. [Architecture diagram](#architecture-diagram)
 ### 4. [File structure](#file-structure)
 
-## Functioanal overview
+## Functional overview
   🔹 Users can search for videos, stream videos.
   
   🔹 Fully responsive UI for desktop and mobile.
