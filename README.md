@@ -11,7 +11,7 @@ I have created this clone of Youtube to rebrush my skill on React and to watch y
 ## Video Player Page:
 ![youtube-videoplayer](https://user-images.githubusercontent.com/36602276/208832972-f295ec1b-6d83-4b00-8d63-f9e861597139.png)
 
-### 1. [Functioanal overview](#functioal-overview) 
+### 1. [Functional overview](#functioal-overview) 
 ### 2. [Technical overview](#technical-overview)
 ### 3. [Architecture diagram](#architecture-diagram)
 ### 4. [File structure](#file-structure)
