@@ -29,7 +29,7 @@ I have created this clone of Youtube to rebrush my skill on React and to watch y
   🔹 Backend API - rapidapi.com/Glavier/api/youtube138/
 
 ## Architecture diagram
-![architecture diagram](https://user-images.githubusercontent.com/36602276/208835593-26f28b6b-2dc6-4741-8c33-3487edd5d264.png)
+![architecture diagram](https://user-images.githubusercontent.com/36602276/208838010-fc5470e5-176d-4fa1-9ada-8169390f2b1c.png)
 
 ## File structure
 ![file structure](https://user-images.githubusercontent.com/36602276/208835648-408fa3f1-912c-4e19-a40d-e55917068464.png)
