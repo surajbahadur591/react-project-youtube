@@ -18,11 +18,14 @@ I have created this clone of Youtube to rebrush my skill on React and to watch y
 
 ## Functioanal overview
   🔹 Users can search for videos, stream videos.
+  
   🔹 Fully responsive UI for desktop and mobile.
+  
   🔹 Get the videos by category like music, live, news etc.
 
 ## Technical overview
   🔹 Technology Stack : React for rendering components, Tailwind CSS for resposive UI and Netlify for deployment
+  
   🔹 Backend API - rapidapi.com/Glavier/api/youtube138/
 
 ## Architecture diagram
